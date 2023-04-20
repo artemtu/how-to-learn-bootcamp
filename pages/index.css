@@ -2,6 +2,7 @@
 
 @import url('../blocks/section-title/section-title.css');
 @import url('../blocks/section-subtitle/section-subtitle.css');
+@import url('../blocks/section-title/_theme/section-title_theme_dark.css');
 
 @import url('../blocks/header/header.css');
 @import url('../blocks/header/__title/header__title.css');
@@ -9,7 +10,7 @@
 @import url('../blocks/header/__main-illustration/header__main-illustration.css');
 @import url('../blocks/header/__square-pic/header__square-pic.css');
 @import url('../blocks/header/__subtitle/header__subtitle.css');
-@import url('../blocks/header/__logo-place-header/header__logo-place-header.css');
+@import url('../blocks/logo/_place/logo_place_header.css');
 @import url('../blocks/rotation/rotation.css');
 
 
@@ -52,18 +53,19 @@
 @import url('../blocks/table/__heading/table__heading.css');
 @import url('../blocks/table/__text/table__text.css');
 @import url('../blocks/table/_theme/table_theme_dark.css');
-@import url('../blocks/table/__cell/table_cell_theme_dark.css');
+@import url('../blocks/table/__cell/_theme/table_cell_theme_dark.css');
 
 
-@import url('../blocks/feymann/feymann.css');
-@import url('../blocks/feymann/__link/feynmann__link.css');
-@import url('../blocks/feymann/__subtitle/feynmann__subtitle.css');
-@import url('../blocks/feymann/__title/feynmann__title.css');
+@import url('../blocks/feynman/feynman.css');
+@import url('../blocks/feynman/__link/feynman__link.css');
+@import url('../blocks/feynman/__subtitle/feynman__subtitle.css');
+@import url('../blocks/feynman/__title/feynman__title.css');
 
 
 @import url('../blocks/kaufman/kaufman.css');
 @import url('../blocks/kaufman/__triangle/kaufman__triangle.css');
 @import url('../blocks/kaufman/_theme/subtitle_theme_dark.css');
+
 
 
 @import url('../blocks/resources/resources.css');
@@ -72,14 +74,16 @@
 
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__author/footer__author.css');
-@import url('../blocks/footer/__column-content-copyright/footer__column_content_copyright.css');
+@import url('../blocks/footer/__column/_content/footer__column_content_copyright.css');
 @import url('../blocks/footer/__column-heading/footer__column-heading.css');
 @import url('../blocks/footer/__column-link/footer__column-link.css');
 @import url('../blocks/footer/__column-links/footer__column-links.css');
 @import url('../blocks/footer/__column/footer__column.css');
 @import url('../blocks/footer/__columns/footer__columns.css');
 @import url('../blocks/footer/__social-icon/footer__social-icon.css');
-@import url('../blocks/footer/logo_place/footer__logo-place.css');
+@import url('../blocks/logo/_place/logo_place_footer.css');
+
+
 
 
 
